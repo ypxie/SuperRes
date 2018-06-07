@@ -1,0 +1,31 @@
+*.DS_Store
+*.pyc
+*.bak
+dist/*
+testing/build/*
+testing/Share/*
+model_adam/*
+__pycache__/*
+color_correction/*
+*py~
+*.pth
+Models/*
+Data/*
+models/*
+*.swp
+.vscode
+*~
+temp/*
+# test-related
+.coverage
+.cache
+# developer environments
+.idea
+.ipython*
+*/.ipynb*
+*/.ipynb_checkpoints/*
+inception-score/inception_finetuned_models/*
+inception-score/results/*
+demo/text_encoder/*
+.remote-sync.json
+__deprecated/*
